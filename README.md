@@ -3,6 +3,9 @@
 [기관/과정명]
 - 한국품질재단 / 부산 클라우드 네이티브 애플리케이션 개발자 양성과정
 
+[인원]
+- 3명
+
 [기간]
 - 2021.09.04 ~ 2021.11.20
 
@@ -11,6 +14,15 @@
 - Java / Spring Boot
 - Docker / Docker Compose / Kubernetes
 - AWS MariaDB RDS / DynamoDB / EKS / ECS / Route 53 / API Gateway / Load Balancer
+
+[맡은 역할]
+- 전반적인 웹 UI 설계 및 구현
+- 결제 시스템을 사용한 시설 예약 서비스 구현
+- AWS DynamoDB 설계 및 생성
+- 네이버 맵 API를 활용한 스포츠 시설 위치 데이터 GIS 시각화
+- 사용자의 현재 위치를 기반으로 하는 길찾기 서비스
+- 기능 모듈화 설계 및 적용 후 각 기능 Docker 컨테이너 화 
+- AWS Route 53을 활용한 HTTPS 인증서 발급 및 적용
 
 [사용 툴]
 - WebStorm
